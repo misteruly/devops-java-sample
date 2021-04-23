@@ -2,3 +2,6 @@
 A Java sample for devops on kubesphere
 
 test  test tset2
+
+test  test tset2
+test  test tset2
